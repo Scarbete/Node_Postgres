@@ -1,7 +1,7 @@
 #files
 .idea
 .env
-.db.js
+db.js
 
 #dirs
 node_modules
