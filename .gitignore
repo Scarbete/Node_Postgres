@@ -1,0 +1,7 @@
+#files
+.idea
+.env
+.db.js
+
+#dirs
+node_modules
